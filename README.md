@@ -52,6 +52,23 @@ Java Developer passionate about building scalable backend applications using Jav
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Oracle Cloud](https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+## 🏆 Certifications
+
+<details>
+<summary>📜 View Certifications</summary>
+
+| Certification | Provider | Year |
+|--------------|----------|------|
+| Oracle Java / SQL Fundamentals | Oracle | 2023 |
+| AWS Certified Cloud Practitioner | AWS | 2024 |
+| AWS Academy Cloud Foundations | AWS | 2024 |
+| Microsoft Azure for AI & ML | Microsoft | 2024 |
+| OCI Foundations Associate | Oracle | 2024 |
+| Salesforce AI Associate | Salesforce | 2023 |
+| AI & ML Level 1 & 2 | Tessolve | 2023 |
+
+</details>
+
 
 ## 📂 Featured Projects
 
