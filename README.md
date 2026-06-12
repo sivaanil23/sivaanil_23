@@ -48,6 +48,29 @@ Java Developer passionate about building scalable backend applications using Jav
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 
+## ☕ Java Backend Portfolio
+
+### 🔹 Core Java
+- [encapsulation](https://github.com/sivaanil23/encapsulation)
+- [Demo](https://github.com/sivaanil23/Demo)
+- [Test](https://github.com/sivaanil23/Test)
+
+### 🔹 JDBC & Database
+- [jdbc](https://github.com/sivaanil23/jdbc)
+- [jdbc-mysql-project_connection](https://github.com/sivaanil23/jdbc-mysql-project_connection)
+
+### 🔹 Web Development
+- [jsp-servlet-project](https://github.com/sivaanil23/jsp-servlet-project)
+- [SinglepageApp](https://github.com/sivaanil23/SinglepageApp)
+
+### 🔹 Frameworks & Tools
+- [hibernate](https://github.com/sivaanil23/hibernate)
+- [Maven](https://github.com/sivaanil23/Maven)
+
+### 🔹 Additional Projects
+- [newapp](https://github.com/sivaanil23/newapp)
+
+
 ### Cloud & Certifications
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
