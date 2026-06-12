@@ -50,7 +50,9 @@ Java Developer passionate about building scalable backend applications using Jav
 
 ### Cloud & Certifications
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Oracle Cloud](https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white | Certification | Provider | Year |
+|--------------|----------|------|
+| Oracle Java / SQL Fundamentals | Oracle | 2023 |)
 ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 <details>
