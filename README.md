@@ -50,7 +50,7 @@ Java Developer passionate about building scalable backend applications using Jav
 
 ### Cloud & Certifications
 
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](file:///C:/Users/sivaa/OneDrive/Desktop/certificates/AWS%20SKILL%20BULIDER%20CERTIFICATE.pdf)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://github.com/sivaanil23/sivaanil_23/blob/main/certificates/AWS_SKILL_BUILDER_CERTIFICATE.pdf)
 
 [![Oracle](https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)](OCI_CERTIFICATE_LINK)
 
