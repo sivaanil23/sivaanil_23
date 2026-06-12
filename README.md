@@ -1,7 +1,5 @@
-YOUR_USERNAME → sivaanil23
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sivaanil23&show_icons=true&theme=tokyonight)
 
-Email → sivaanil52@gmail.com
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sivaanil23&theme=tokyonight)
 
-LinkedIn → https://linkedin.com/in/siva-anil-veeranki-88386127a
-
-GitHub → https://github.com/sivaanil23
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sivaanil23&layout=compact&theme=tokyonight)
