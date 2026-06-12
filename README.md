@@ -3,3 +3,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sivaanil23&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sivaanil23&layout=compact&theme=tokyonight)
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/sivaanil23/sivaanil_23/output/github-contribution-grid-snake-dark.svg)
+
