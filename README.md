@@ -50,11 +50,9 @@ Java Developer passionate about building scalable backend applications using Jav
 
 ### Cloud & Certifications
 
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://github.com/sivaanil23/sivaanil_23/blob/main/certificates/AWS_SKILL_BUILDER_CERTIFICATE.pdf)
-
-[![Oracle](https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)](OCI_CERTIFICATE_LINK)
-
-[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](AZURE_CERTIFICATE_LINK)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Oracle Cloud](https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 <details>
 <summary>📜 View Certifications</summary>
