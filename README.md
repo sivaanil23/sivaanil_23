@@ -50,11 +50,11 @@ Java Developer passionate about building scalable backend applications using Jav
 
 ### Cloud & Certifications
 
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](#-certifications)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](AWS_CERTIFICATE_LINK)
 
-[![OCI](https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)](#-certifications)
+[![Oracle](https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)](OCI_CERTIFICATE_LINK)
 
-[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](#-certifications)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](AZURE_CERTIFICATE_LINK)
 
 <details>
 <summary>📜 View Certifications</summary>
